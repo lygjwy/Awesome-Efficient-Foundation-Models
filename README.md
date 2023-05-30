@@ -8,6 +8,10 @@
   A curated list for efficient foundation models.
 </h4>
 
+<center>
+  ![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)
+</center>
+
 <div align="center">
   <a href="https://github.com/sindresorhus/awesome" target='_blank'>
     <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg">
